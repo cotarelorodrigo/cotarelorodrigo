@@ -1,4 +1,8 @@
-### Hi there 👋
+<img src="https://github.com/cotarelorodrigo/cotarelorodrigo/blob/main/intro.gif" alt="# 👋 Hi there! I'm Rodrigo Cotarelo" title="# 👋 Hi there! I'm Rodrigo Cotarelo"/>
+
+## :book: About Me
+- 🧹 I like building useful tools
+- Currently building [Bluerabbit](https://bluerabbit.co/startup)
 
 <!--
 **cotarelorodrigo/cotarelorodrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
