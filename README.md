@@ -2,7 +2,7 @@
 
 ## :book: About Me
 - 🧹 I like building useful tools
-- Currently building [Bluerabbit](https://bluerabbit.co/startup)
+- Currently building [Strike360](https://strike.sh)
 
 <!--
 **cotarelorodrigo/cotarelorodrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
